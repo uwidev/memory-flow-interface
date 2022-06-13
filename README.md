@@ -16,10 +16,10 @@ Rambling is a means of outlet and decompression, and is utilized to gather insig
 Processing of information after a break requires a means to quickly load information back into loading memory. This usually requires contextual information, and is done through checklist items, whose functionality are extended by plugins.
 
 ## How to get started
-1. Navigate to [Obsidian's Website](https://obsidian.md/) and download the Obsidian. Install.
+1. Navigate to [Obsidian's Website](https://obsidian.md/) and download Obsidian. Install.
 2. Download the latest release of this project on the right sidebar, under **Releases**. Extract to a safe location.
 3. Open Obsidian then `Open folder as Vault`, and navigate to the folder that you extracted the source code to. Turn off safe-mode so plugins work.
-4. Read `00 ♻ Memory Flow Interface` for further understanding, or immediately start working with this vault.
+4. Read `00 ♻ Memory Flow Interface` for further understanding, or immediately start working within this vault.
 
 ## Suggestions and Concerns
 Join the my community Discord server [here](https://discord.gg/xSaj5Cc5GZ). Also consider joining the official Obsidian Discord [here](https://discord.com/invite/veuWUTm) for Obsidian-specific details. Also feel free to [open a new issue](https://github.com/uwidev/life-disciplines-projects/issues/new).
