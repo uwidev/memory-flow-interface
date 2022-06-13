@@ -18,7 +18,7 @@ Processing of information after a break requires a means to quickly load informa
 ## How to get started
 1. Navigate to [Obsidian's Website](https://obsidian.md/) and download the Obsidian. Install.
 2. Download the latest release of this project on the right sidebar, under **Releases**. Extract to a safe location.
-3. Open Obsidian then `Open folder as Vault` and navigate to the folder that you extracted the source code to.
+3. Open Obsidian then `Open folder as Vault`, and navigate to the folder that you extracted the source code to. Turn off safe-mode so plugins work.
 4. Read `00 ♻ Memory Flow Interface` for further understanding, or immediately start working with this vault.
 
 ## Suggestions and Concerns
