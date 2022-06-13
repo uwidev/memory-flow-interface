@@ -1,6 +1,8 @@
 # Memory Flow Interface (MFI)
 **Memory Flow Interface (MFI)** is a working environment that promotes the externalization of working memory for mental processing. This repository serves to describe MFI, as well as serve as an implementation and demonstration within [Obsidian](https://obsidian.md/).
 
+![](https://storage.ko-fi.com/cdn/useruploads/display/beaf0b1f-5264-4d01-b278-a9075114c7b6_obsidian_ikkorp5p48.png)
+
 ## Who is this for?
 MFI is designed to be powerfully basic. The core elements allow for immense personal development and information management. If so desired, users can bring in other tools and concepts to create a more nuanced environment that suits their needs.
 
