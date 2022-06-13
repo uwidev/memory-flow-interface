@@ -1,0 +1,27 @@
+{
+  "foldHeading": true,
+  "foldIndent": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "setup",
+    "Ikigai",
+    "Readme",
+    "frontmatter",
+    "Ikigai",
+    "Zettelkasten",
+    "ikigai",
+    "killsets ",
+    "skillsets",
+    "codeblocks",
+    "Ikigais",
+    "ikigais",
+    "Frontmatter",
+    "Disciplines",
+    "checklisted"
+  ],
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false
+}

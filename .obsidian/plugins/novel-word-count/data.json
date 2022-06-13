@@ -1,0 +1,290 @@
+{
+  "settings": {
+    "countType": "word",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "README.md": {
+      "wordCount": 486,
+      "pageCount": 2,
+      "characterCount": 3341,
+      "createdDate": 1655091574383,
+      "modifiedDate": 1655093164091
+    },
+    "900 Archive/abandoned note.md": {
+      "wordCount": 42,
+      "pageCount": 1,
+      "characterCount": 222,
+      "createdDate": 1654992729806,
+      "modifiedDate": 1654992820547
+    },
+    "800 Templates/task.md": {
+      "wordCount": 1,
+      "pageCount": 1,
+      "characterCount": 6,
+      "createdDate": 1654883577588,
+      "modifiedDate": 1654883677395
+    },
+    "800 Templates/guide.md": {
+      "wordCount": 8,
+      "pageCount": 1,
+      "characterCount": 45,
+      "createdDate": 1654889734922,
+      "modifiedDate": 1654975764467
+    },
+    "800 Templates/em dash.md": {
+      "wordCount": 1,
+      "pageCount": 1,
+      "characterCount": 1,
+      "createdDate": 1654891139206,
+      "modifiedDate": 1654891141385
+    },
+    "300 Alignment/2022-06-11.md": {
+      "wordCount": 211,
+      "pageCount": 1,
+      "characterCount": 1221,
+      "createdDate": 1654998760641,
+      "modifiedDate": 1655075818043
+    },
+    "200 Resources/Working (Working State).md": {
+      "wordCount": 105,
+      "pageCount": 1,
+      "characterCount": 717,
+      "createdDate": 1654889657448,
+      "modifiedDate": 1655085609199
+    },
+    "200 Resources/Tasks.md": {
+      "wordCount": 221,
+      "pageCount": 1,
+      "characterCount": 1418,
+      "createdDate": 1654905977899,
+      "modifiedDate": 1655091943726
+    },
+    "200 Resources/Tags.md": {
+      "wordCount": 226,
+      "pageCount": 1,
+      "characterCount": 1413,
+      "createdDate": 1654905524648,
+      "modifiedDate": 1655086356250
+    },
+    "200 Resources/Tags are Disciplines.md": {
+      "wordCount": 220,
+      "pageCount": 1,
+      "characterCount": 1470,
+      "createdDate": 1654890645371,
+      "modifiedDate": 1655086121829
+    },
+    "200 Resources/Staging (Working State).md": {
+      "wordCount": 61,
+      "pageCount": 1,
+      "characterCount": 467,
+      "createdDate": 1654889661799,
+      "modifiedDate": 1655086430502
+    },
+    "200 Resources/Stale (Working State).md": {
+      "wordCount": 80,
+      "pageCount": 1,
+      "characterCount": 542,
+      "createdDate": 1654889656374,
+      "modifiedDate": 1655086379918
+    },
+    "200 Resources/Scrum (Agile).md": {
+      "wordCount": 87,
+      "pageCount": 1,
+      "characterCount": 618,
+      "createdDate": 1655045480290,
+      "modifiedDate": 1655086480666
+    },
+    "200 Resources/Rambling.md": {
+      "wordCount": 393,
+      "pageCount": 2,
+      "characterCount": 2429,
+      "createdDate": 1654903106656,
+      "modifiedDate": 1655086760244
+    },
+    "200 Resources/Projects.md": {
+      "wordCount": 295,
+      "pageCount": 1,
+      "characterCount": 1870,
+      "createdDate": 1654888197234,
+      "modifiedDate": 1655087492249
+    },
+    "200 Resources/Practical Workflow of MFI.md": {
+      "wordCount": 431,
+      "pageCount": 2,
+      "characterCount": 2799,
+      "createdDate": 1654884438615,
+      "modifiedDate": 1655088613515
+    },
+    "200 Resources/Pillars, Pipelines, Vaults (PPV).md": {
+      "wordCount": 614,
+      "pageCount": 3,
+      "characterCount": 3770,
+      "createdDate": 1655045455833,
+      "modifiedDate": 1655088834520
+    },
+    "200 Resources/Personal Knowledge Management.md": {
+      "wordCount": 144,
+      "pageCount": 1,
+      "characterCount": 929,
+      "createdDate": 1654891541607,
+      "modifiedDate": 1655089211690
+    },
+    "200 Resources/Personal Knowledge Database.md": {
+      "wordCount": 61,
+      "pageCount": 1,
+      "characterCount": 456,
+      "createdDate": 1655088956035,
+      "modifiedDate": 1655089203053
+    },
+    "200 Resources/Periodic Notes for Alignment.md": {
+      "wordCount": 119,
+      "pageCount": 1,
+      "characterCount": 771,
+      "createdDate": 1654911238991,
+      "modifiedDate": 1655089252827
+    },
+    "200 Resources/Organizing Tasks With Tags.md": {
+      "wordCount": 92,
+      "pageCount": 1,
+      "characterCount": 547,
+      "createdDate": 1654907045385,
+      "modifiedDate": 1655091946242
+    },
+    "200 Resources/Organizing by Folders vs Tags.md": {
+      "wordCount": 290,
+      "pageCount": 1,
+      "characterCount": 1903,
+      "createdDate": 1654886189230,
+      "modifiedDate": 1655089618100
+    },
+    "200 Resources/Open-Ended Problem-Solving.md": {
+      "wordCount": 286,
+      "pageCount": 1,
+      "characterCount": 1554,
+      "createdDate": 1654888255033,
+      "modifiedDate": 1655089641283
+    },
+    "200 Resources/Kanban (Agile).md": {
+      "wordCount": 184,
+      "pageCount": 1,
+      "characterCount": 1145,
+      "createdDate": 1655045496133,
+      "modifiedDate": 1655089796239
+    },
+    "200 Resources/Getting Things Done.md": {
+      "wordCount": 602,
+      "pageCount": 3,
+      "characterCount": 3562,
+      "createdDate": 1655045369982,
+      "modifiedDate": 1655075150194
+    },
+    "200 Resources/Folders as Working States.md": {
+      "wordCount": 293,
+      "pageCount": 1,
+      "characterCount": 1842,
+      "createdDate": 1654887102344,
+      "modifiedDate": 1655090051326
+    },
+    "200 Resources/Dashboard.md": {
+      "wordCount": 251,
+      "pageCount": 1,
+      "characterCount": 1579,
+      "createdDate": 1654973326382,
+      "modifiedDate": 1655091946264
+    },
+    "200 Resources/Done (Working State).md": {
+      "wordCount": 72,
+      "pageCount": 1,
+      "characterCount": 487,
+      "createdDate": 1654889624500,
+      "modifiedDate": 1655090080905
+    },
+    "200 Resources/Answering Big Questions with Alignment.md": {
+      "wordCount": 174,
+      "pageCount": 1,
+      "characterCount": 996,
+      "createdDate": 1654911135850,
+      "modifiedDate": 1655090633613
+    },
+    "200 Resources/Alignment.md": {
+      "wordCount": 400,
+      "pageCount": 2,
+      "characterCount": 2329,
+      "createdDate": 1654903870990,
+      "modifiedDate": 1655090960394
+    },
+    "200 Resources/Agile Project Management.md": {
+      "wordCount": 316,
+      "pageCount": 2,
+      "characterCount": 2096,
+      "createdDate": 1655045468836,
+      "modifiedDate": 1655091096841
+    },
+    "100 Staging/Harumachi Clover Is THE Song.md": {
+      "wordCount": 345,
+      "pageCount": 2,
+      "characterCount": 2044,
+      "createdDate": 1654994217520,
+      "modifiedDate": 1654998286932
+    },
+    "02 🎨 Arts Dashboard.md": {
+      "wordCount": 36,
+      "pageCount": 1,
+      "characterCount": 232,
+      "createdDate": 1654998225645,
+      "modifiedDate": 1655090439972
+    },
+    "01 🏠 Main Dashboard.md": {
+      "wordCount": 29,
+      "pageCount": 1,
+      "characterCount": 170,
+      "createdDate": 1654881370321,
+      "modifiedDate": 1654998589013
+    },
+    "000 Inbox/What a save!.md": {
+      "wordCount": 34,
+      "pageCount": 1,
+      "characterCount": 177,
+      "createdDate": 1654991852434,
+      "modifiedDate": 1654996268286
+    },
+    "000 Inbox/Important Project/pls rember.md": {
+      "wordCount": 37,
+      "pageCount": 1,
+      "characterCount": 241,
+      "createdDate": 1654993105587,
+      "modifiedDate": 1654995985705
+    },
+    "000 Inbox/Important Project/it.md": {
+      "wordCount": 9,
+      "pageCount": 1,
+      "characterCount": 196,
+      "createdDate": 1654996532828,
+      "modifiedDate": 1654998456801
+    },
+    "000 Inbox/Important Project/bad apple.md": {
+      "wordCount": 125,
+      "pageCount": 1,
+      "characterCount": 1881,
+      "createdDate": 1654993082858,
+      "modifiedDate": 1654996077859
+    },
+    "00 📝 Directory.md": {
+      "wordCount": 28,
+      "pageCount": 1,
+      "characterCount": 231,
+      "createdDate": 1654998619996,
+      "modifiedDate": 1655050677629
+    },
+    "00 ♻ Memory Flow Interface.md": {
+      "wordCount": 1067,
+      "pageCount": 4,
+      "characterCount": 6974,
+      "createdDate": 1654998037365,
+      "modifiedDate": 1655092901555
+    }
+  }
+}
